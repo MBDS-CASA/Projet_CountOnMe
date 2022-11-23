@@ -2,14 +2,12 @@
 Dans ce TP, vous allez reprendre une application existante et l'améliorer : 
 1) En rendant l'interface adaptée à toutes les résolutions d'écrans d'iPhone
 2) En ajoutant des fonctionnalités supplémentaires
-3) En mettant à jour l'architecture du code
 
 # Adapter l'interface de l'application
 Dans sa version actuelle, l'interface de l'application ne s'affiche pas correctement. Dans un premier temps, il faut mettre à jour l'interface graphique
 comme sur la capture d'écran ci-dessous. 
 
 ![Alt text](Screenshot%202022-11-23%20at%2011.42.08.png?raw=true "Title")
-
 
 
 # Ajouter des fonctionnalités supplémentaires. 
@@ -20,9 +18,5 @@ Dans cette version de l'application, seule les opérations d'additions et de sou
 - Effacer un élément dans la chaîne d'opération (de la droite vers la gauche) 
 - Réinitialiser toute la chaîne d'opération
 
-# Mettre à jour l'architecture du code
-Dans cette version, les opérations sont réalisées dans le View Controller. Par cette approche, le code ne respecte pas vraiment le principe de séparations des couches. 
-Vous allez modifier l'architecture du projet pour y ajouter une classe Modele dans laquelle vous placerez toute la logique métier de l'application. 
-Vous créez ensuite une instance de cette classe dans le view modele afin de gérer les opérations. 
 
 
