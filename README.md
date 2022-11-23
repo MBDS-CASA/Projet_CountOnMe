@@ -8,6 +8,9 @@ Dans ce TP, vous allez reprendre une application existante et l'améliorer :
 Dans sa version actuelle, l'interface de l'application ne s'affiche pas correctement. Dans un premier temps, il faut mettre à jour l'interface graphique
 comme sur la capture d'écran ci-dessous. 
 
+![Alt text](Screenshot%202022-11-23%20at%2011.42.08.png?raw=true "Title")
+
+
 
 # Ajouter des fonctionnalités supplémentaires. 
 Dans cette version de l'application, seule les opérations d'additions et de soustraction sont implémentées. Il vous est demandé d'ajouter les fonctionnalités suivantes : 
